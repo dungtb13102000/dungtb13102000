@@ -13,6 +13,8 @@ $(document).ready(function() {
 function firstQuestion(){
     
     $('.content').hide();
+	var audio = new Audio('sound/phaohoa.mp3');
+    audio.play();
     Swal.fire({
         title: 'He luu cậu!',
         text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
