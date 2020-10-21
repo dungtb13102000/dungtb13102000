@@ -19,8 +19,8 @@ function firstQuestion(){
         title: 'He luu cậu!',
         text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
         imageUrl: 'img/cute.jpg',
-        imageWidth: auto,
-        imageHeight: auto,
+        imageWidth: 320,
+        imageHeight: 180,
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
       }).then(function(){
