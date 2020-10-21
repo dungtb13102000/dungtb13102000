@@ -20,7 +20,7 @@ function firstQuestion(){
         text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
         imageUrl: 'img/cute.jpg',
         imageWidth: 320,
-        imageHeight: 180,
+        imageHeight: 210,
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
       }).then(function(){
